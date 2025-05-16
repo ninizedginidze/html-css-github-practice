@@ -4,6 +4,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+.navbar a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
 .hero {
   padding: 50px;
   background-color: #f0f0f0;
